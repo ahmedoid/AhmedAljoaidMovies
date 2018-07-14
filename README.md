@@ -1,7 +1,4 @@
 # Top Rated Movies App
-### Screenshoot
-
-
 ### Libraries
  -  [Retrofit](http://square.github.io/retrofit/)
  -  [Dageer 2](https://github.com/google/dagger)
